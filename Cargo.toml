@@ -1,0 +1,12 @@
+[package]
+name = "diary"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aes-gcm = "0.11.1"
+getrandom = "0.4.3"
+pbkdf2 = "0.13.0"
+rpassword = "7.5.4"
+sha2 = "0.11.1"
+tempfile = "3.27.0"
